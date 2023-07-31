@@ -25,7 +25,7 @@ This project aims to give you access to the Wrath Of The Lich King Azzinoth serv
 The official game launcher for the Azzinoth Server 
 
 
-##Note
+## Note
 Azzinoth Launcher is a project dedicated to providing a seamless and enjoyable experience for players on the Azzinoth private World of Warcraft server. It simplifies the process of accessing the server, downloading necessary files, and staying up-to-date with the latest content.
 
 Please feel free to explore the code and contribute to the project. If you have any questions or encounter any issues, don't hesitate to open an issue on the GitHub repository.
