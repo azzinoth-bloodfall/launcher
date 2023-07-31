@@ -6,7 +6,7 @@
     width="100"
     hspace="50">
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/9/91/World_of_Warcraft_Icon.png](https://www.nicepng.com/png/full/954-9540198_wow-logo-warcraft.png"
+    src="https://www.nicepng.com/png/full/954-9540198_wow-logo-warcraft.png"
     alt="World of Warcraft"
     width="100"
     hspace="50">
