@@ -1,13 +1,15 @@
 # Azzinoth Launcher
 <p align="center">
   <img
-    src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
-    alt= “NextJs”
-    width="100"
-    hspace="50">
-  <img
     src="https://www.nicepng.com/png/full/954-9540198_wow-logo-warcraft.png"
     alt="World of Warcraft"
+    width="100"
+    hspace="50">
+</p>
+<p align="center">
+  <img
+    src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
+    alt= “NextJs”
     width="100"
     hspace="50">
   <img
