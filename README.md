@@ -3,8 +3,8 @@
   <img
     src="https://www.nicepng.com/png/full/954-9540198_wow-logo-warcraft.png"
     alt="World of Warcraft"
-    width="100"
-    hspace="50">
+    width="300"
+    hspace="150">
 </p>
 <p align="center">
   <img
