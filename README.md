@@ -14,6 +14,8 @@ Please feel free to explore the code and contribute to the project. If you have 
 
 Enjoy your adventure in the World of Warcraft with Azzinoth Launcher!
 
+---
+
 <p align="center">
   <img
     src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
