@@ -26,6 +26,7 @@ Enjoy your adventure in the World of Warcraft with Azzinoth Launcher!
     width="100"
     hspace="50">
 </p>
+
 ## Technically
 This project contains an extended version of [Nextron](https://github.com/saltyshiomix/nextron) application (supported by the author [Alexis Piquet](https://github.com/alexis-piquet)), the perfect mix of [NextJs](https://nextjs.org/) and [ElectronJs](https://www.electronjs.org/fr/). If you have any question related to Nextron, or any issue, don't hesitate to go to the github repository.
 
